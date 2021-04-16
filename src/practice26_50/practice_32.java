@@ -1,3 +1,5 @@
+package practice26_50;
+
 public class practice_32 {
     public static void main(String[] args) {
         // 取一个整数a从右端开始的4～7位

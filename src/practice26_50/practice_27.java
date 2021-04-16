@@ -1,3 +1,5 @@
+package practice26_50;
+
 public class practice_27 {
     public static void main(String[] args) {
         // 求100之内的素数

@@ -1,3 +1,5 @@
+package practice26_50;
+
 public class practice_31 {
     public static void main(String[] args) {
         // 将一个数组逆序输出

@@ -1,3 +1,5 @@
+package practice26_50;
+
 import java.util.Scanner;
 
 public class practice_26 {
